@@ -22,7 +22,7 @@
 
 #
 <div align = "center">
-  <img style = "width: 150px;" src = "https://media.tenor.com/bCfpwMjfAi0AAAAM/cat-typing.gif"/>
+  <img style = "width: 150px;" src = "https://i.pinimg.com/originals/6c/12/b1/6c12b17b704562734d8b4c3ebae07672.gif"/>
 </div>
 
 ###
